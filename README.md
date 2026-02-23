@@ -1,5 +1,5 @@
 # scarytone
-A fast and simple (but widely customizable) versatile media player! Currently supports audio through FFmpeg and SDL2. Other formats will be added eventually (pdf, video, image, and text).
+A fast and simple (but widely customizable)  audio player! Currently supports audio through FFmpeg and SDL2.
 
 
 ### ROADMAP
