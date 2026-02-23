@@ -4,14 +4,7 @@ A fast and simple (but widely customizable) versatile media player! Currently su
 
 ## ROADMAP 
 
-Video playing
+Make the title scroll if above max length
 
-Pdf viewer (not epstein, edp445, or the likes)
+Add customization - with json !
 
-Text viewing (with markdown support)
-
-Image viewing
-
-Making scaryeditor
-
-Compatibility with scaryeditor (a planned media editor). When scaryeditor is installed in the same path as scaryplayer (dont worry about this if youre installing via AUR / flatpak), it will allow you to seamlessly switch between editing and viewing
